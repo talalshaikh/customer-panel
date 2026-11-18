@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 218" width="1280" height="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="title">
+  <title id="title">How it works: 1 gather the facts, 2 design 4 segments, 3 write the brief, 4 you approve the pitch, 5 the 4 segments run in parallel, 6 tally the answers, 7 report and recommend. Each next round goes back to step 3 with one change and new people.</title>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#898781"/></marker></defs>
+  <rect x="1" y="1" width="1278" height="216" rx="20" fill="#f9f9f7" stroke="#e1e0d9" stroke-width="2"/>
+  <line x1="186" y1="82" x2="202" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/><line x1="364" y1="82" x2="380" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/><line x1="542" y1="82" x2="558" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/><line x1="720" y1="82" x2="736" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/><line x1="898" y1="82" x2="914" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/><line x1="1076" y1="82" x2="1092" y2="82" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="31" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="106" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">1</text>
+    <text x="106" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Gather</text>
+    <text x="106" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">the facts</text>
+  <rect x="209" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="284" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">2</text>
+    <text x="284" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Design</text>
+    <text x="284" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">4 segments</text>
+  <rect x="387" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="462" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">3</text>
+    <text x="462" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Write</text>
+    <text x="462" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">the brief</text>
+  <rect x="565" y="34" width="150" height="96" rx="14" fill="#e8f1fc" stroke="#1c5cab" stroke-width="2.5"/>
+    <text x="640" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#1c5cab">4</text>
+    <text x="640" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">You approve</text>
+    <text x="640" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">the pitch</text>
+  <rect x="743" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="818" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">5</text>
+    <text x="818" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">4 segments run</text>
+    <text x="818" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">in parallel</text>
+  <rect x="921" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="996" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">6</text>
+    <text x="996" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Tally</text>
+    <text x="996" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">the answers</text>
+  <rect x="1099" y="34" width="150" height="96" rx="14" fill="#ffffff" stroke="#c3c2b7" stroke-width="1.5"/>
+    <text x="1174" y="62" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="1.5" fill="#898781">7</text>
+    <text x="1174" y="90" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Report and</text>
+    <text x="1174" y="113" text-anchor="middle" font-size="18" fill="#0b0b0b">recommend</text>
+  <path d="M 1174 136 V 168 Q 1174 182 1160 182 H 476 Q 462 182 462 168 V 144" fill="none" stroke="#898781" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#arrow)"/>
+  <rect x="628" y="167" width="380" height="30" fill="#f9f9f7"/>
+  <text x="818" y="188" text-anchor="middle" font-size="16" fill="#898781">Next round: change one thing, ask new people</text>
+</svg>

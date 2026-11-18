@@ -38,13 +38,10 @@ Other things you can ask:
 
 ## How it works
 
-```mermaid
-flowchart LR
-  F[Gather the facts] --> S[Design 4 segments] --> B[Write the brief] --> C{You approve<br/>the pitch}
-  C --> P[4 segments run<br/>in parallel]
-  P --> T[Tally] --> R[Report]
-  R -.-> N[Next round]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
+  <img alt="How it works: 1 gather the facts, 2 design 4 segments, 3 write the brief, 4 you approve the pitch, 5 the 4 segments run in parallel, 6 tally the answers, 7 report and recommend. Each next round goes back to step 3 with one change and new people." src="assets/workflow-light.svg" width="100%">
+</picture>
 
 ### What every customer goes through
 
